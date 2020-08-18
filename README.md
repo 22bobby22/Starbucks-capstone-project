@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some customers might not receive any offer during certain weeks.
+This dataset contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some customers might not receive any offer during certain weeks.
 
-My task is to combine transaction, demographic and offer data to build a model that is able to predict whether a customer is going to respond to an offer or not. This data set is a simplified version of the real Starbucks app because the underlying simulator only has one product whereas Starbucks actually sells dozens of products.
+There is transactional data showing customer purchases made on the app including the timestamp of purchase and the amount of money spent on a purchase. This transactional data also has a record for each offer that a user receives as well as a record for when a customer actually views the offer. There are also records for when a user completes an offer.
 
-There is transactional data showing customer purchases made on the app including the timestamp of purchase and the amount of money spent on a purchase. This transactional data also has a record for each offer that a user receives as well as a record for when a user actually views the offer. There are also records for when a user completes an offer.
+My task is to combine transaction, demographic and offer data to build a model that is able to predict whether a customer is going to respond to an offer or not. This dataset is a simplified version of the real Starbucks app because the underlying simulator only has one product whereas Starbucks actually sells dozens of products.
 
 With all this taken into account I will follow these steps to build a model with a reasonable accuracy:
 

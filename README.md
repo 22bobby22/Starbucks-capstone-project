@@ -19,7 +19,7 @@ With all this taken into account I will follow these steps to build a model with
 
 Starbucks_Capstone_notebook.ipynb: Jupyter Notebook where all the code and details are present. Code outputs are also present so you shouldn't need to run any code cell.
 
-This project is basically all contained in the Jupyter Notebook, besides that there is also a blog post in this link that summarizes the findings detailed in the notebook: [medium blog post](https://medium.com/@crack461/starbucks-capstone-project-538116016700?sk=a83922e49a9ffdb6798196e9f6fc1869)
+This project is basically all contained in the Jupyter Notebook, besides that there is also a blog post in this link that summarizes the findings detailed in the notebook: [medium blog post](https://medium.com/@crack461/starbucks-capstone-project-538116016700?source=friends_link&sk=a83922e49a9ffdb6798196e9f6fc1869)
 
 ## Dependencies
 
